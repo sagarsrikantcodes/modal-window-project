@@ -20,10 +20,13 @@ This project involves creating a modal window UI component that can be used on w
 
 ## Project Structure
 
-/modal-window-project
-|-----index.html # The main HTML file
-|-----styles.css # CSS styles for the modal and overlay
-|-----script.js # JavaScript for modal functionality
+ - Project Link:- https://sagarsrikantcodes.github.io/modal-window-project/ 
+
+## modal-window-project
+
+ - index.html # The main HTML file
+ - styles.css # CSS styles for the modal and overlay
+ - script.js # JavaScript for modal functionality
 
 ## Getting Started
 
